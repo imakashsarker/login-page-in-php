@@ -1,0 +1,39 @@
+body{
+	background:#00BFFF ;
+}
+h1{
+	margin-top:200px;
+	color: white;
+}
+table{
+	display: block;
+	background:#6495ED;
+    height:200px;
+    width:300px;
+}
+input[type="text"]{
+	display:block;
+    margin-left:60px;
+    margin-top:30px;
+    border:3px solid #FF00FF;
+    height:25px;
+    width:200px;
+    font-size:18px;
+}
+input[type="password"]{
+	display:block;
+    margin-left:60px;
+    margin-top:30px;
+    border:3px solid #FF00FF;
+    height:25px;
+    width:200px;
+    font-size:18px;
+}
+input[type="submit"]{
+	display:block;
+	margin-left:60px;
+	margin-top:30px;
+	border:3px solid #FF00FF;
+	height:25px;
+	width:100px;
+}
